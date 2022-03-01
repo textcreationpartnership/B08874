@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cuckoldom alamode, or, A comical relation, of an eminent tallow-chandler, who sneak'd off last week with an ale-drapers wife, near Grays-Inn.  With the tallow-chandlers wife's lamentation for the loss of her husband, and the ale-drapers sorrow for the absence of his wife.  To which is added , the Leicestershire cobbler's misfortune, or, A hue and cry after a lost maiden head in Bell-Yard, near Sheare-Lane, with other pleasant particulars.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08874</idno>
+            <idno type="STC">Wing C7453AE</idno>
+            <idno type="STC">ESTC R224699</idno>
+            <idno type="EEBO-CITATION">64551142</idno>
+            <idno type="OCLC">ocm 64551142</idno>
+            <idno type="VID">184502</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08874)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184502)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2865:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cuckoldom alamode, or, A comical relation, of an eminent tallow-chandler, who sneak'd off last week with an ale-drapers wife, near Grays-Inn.  With the tallow-chandlers wife's lamentation for the loss of her husband, and the ale-drapers sorrow for the absence of his wife.  To which is added , the Leicestershire cobbler's misfortune, or, A hue and cry after a lost maiden head in Bell-Yard, near Sheare-Lane, with other pleasant particulars.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for VVilliam Hurd, near the Strand,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Adultery --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184502:1" rendition="simple:additions"/>
+            <head>
+               <hi>Cuckoldom Alamode,</hi> or A Comical Relation, of an Eminent <hi>Tallow-Chandler,</hi> who ſneak'd off laſt Week with an <hi>Ale-Drap<g ref="char:EOLhyphen"/>ers</hi> Wife, near <hi>Grays-Inn.</hi> With the <hi>Tallow-Chandlers</hi> Wife's Lamentation for the loſs of her Husband, and the <hi>Ale-Drapers</hi> ſorrow for the abſence of his Wife.</head>
+            <head type="sub">To which is added, the <hi>Leiceſterſhire</hi> Cobbler's misfortune, or a <hi>Hue and Cry</hi> after a loſt Maiden Head, in <hi>Bell-Yard,</hi> near <hi>Sheare-Lane,</hi> with other pleaſant Particulars.</head>
+            <p>AN Eminent <hi>Tallow-Chandler,</hi> (it being a ſlippery Trade) lived very lately near <hi>Red-Lyon Square,</hi> why tho' he had a Handſome Wife of his own, would needs be handling of other Folks, Folk, and among the reſt, a Young Woman near <hi>Grays-Inn,</hi> but it being near the I a vyers apparments, I think it my Duty to clear up the matter ſo far as to tell my Readers ſhe was none of their Wives, (tho' ſome of them are wanton enough) but a certain <hi>Ale-Drapers</hi> Wife, whoſe Charming features ſo far he witen'd the Head-ſtrong <hi>Tallow-Chandler,</hi> that he could not be contented to go half Snacks with the <hi>Ale-Draper,</hi> but was ſo unreaſon<g ref="char:EOLhyphen"/>able, as to play at Sweep Stakes with him, and in order to bring his unlawful pro<g ref="char:EOLhyphen"/>ject to Effect, he for ſeveral Weeks laſt poſt, frequented the <hi>Derb,</hi> Merchants Houſe, who being one of thoſe contented Chriſtian, who lays claim to Heaven by their Wives Tranſgreſſions; gave the <hi>Tallow-Chandler</hi> all the Freedom Imaginable; who Improv'd the opportunity to that degree, that he prevail'd with his Wife to leave her Husbands Tapp, and wholly take her ſelf to his Candle Mould: The Innocent Hus<g ref="char:EOLhyphen"/>band, tho' he was partly Sencible the <hi>Tallow-Chandler</hi> Traded with his Wife by Retail, yet he did not Dream in the leaſt, he would take her by the Lump; but tho' it is too true, yet contrary to the Proverb, we have made bold to make a Jeſt on't, and you may take my word for't, (if you won't be at the pains to go to ſee) that they went both away together laſt Week and neither of 'em empty Handed. The <hi>Tallow-Chandler</hi> (as I am Inform'd,) having took a conſiderable <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umm of Money with him, and the <hi>Ale-Drapers</hi> Wife has Ea<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d her Husband of a great many of hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beſt moveables, except his own Tool which ſhe did not like, leaving her Husband, who was before a mild and contented Man; (but now a Horn Mad Cuckold) fretting and raving in ſuch a ſad &amp; de<g ref="char:EOLhyphen"/>plorable manner, that 'ewould grieve a Bodies Heart to hear his Sighs &amp; Lamentations, tho' to do him juſtice, 'tis not ſo much for the loſs of his Wife, as the diſcovery of His Horns, which till then he kept <hi>Incognito,</hi> and that which agravates his misfortune, he hears that they are on their way to <hi>Ireland,</hi> ſo that he is like to bid adieu to his light Heel'd Wife. And the <hi>Tallow-Chandlers</hi> Wife to her wanton and Laſcivious Husband, he hav<g ref="char:EOLhyphen"/>ing left her ſeveral ſmall Children.</p>
+            <div type="part">
+               <head>The <hi>Leiceſterſhire Cobbler's</hi> misfortune.</head>
+               <p>A Certain <hi>Cobbler,</hi> alias <hi>Tranſlator</hi> of Shoots, of the Firſt and Second Edition, keep<g ref="char:EOLhyphen"/>ing a large Bulk, near <hi>Bell Yard,</hi> by <hi>Sheer Lane;</hi> and having often been a derid<g ref="char:EOLhyphen"/>der and ſcoffer at other Mens misfortunes, eſpecially Female Incumbrances; had the evil Fortune himſelf to fall into the like Inconveniency, for lately Trading between the two Hams, for an Inviſible thing call'd a Maiden Head, and having by the uſe of his Awl, and other Dexterous and Natural Ingenuity deprived the right owner of it; and being not able to make reſtitution; the careleſs looſer Mrs. <hi>Abigal-Wagtail,</hi> who now lives at the Stool of Repentance, came laſt Week to his renowned Stall, where ſhe pro<g ref="char:EOLhyphen"/>duced the Fruits of his Labour as a Teſtimony againſt him affirming that he was the Man who rifled her Copy-hold, and conſequently had Robb'd her of that Treaſure, which he was not able to reſtore; the Cobler at firſt was in great conſternation, look<g ref="char:EOLhyphen"/>ing as White as a Clout; to ſee ſuch unwelcome viſſiters but ſeeing there was no way to avoid keeping the Battling: He told his Neighbours that it was in vain to deny the matter ſince ſhe produced his Hand &amp; Seal to the Contract; and thereupon was forced to give Security to the Pariſh for the maintenance thereof.</p>
+               <epigraph>
+                  <q>
+                     <l>Thus many Men, they laugh at others Crimes,</l>
+                     <l>Tho' they themſelves, Committ ſuch many times,</l>
+                     <l>Mocking is Catching, now the Cobbler ſees,</l>
+                     <l>For his paſt Pleaſure; he muſt Pay his Fees,</l>
+                  </q>
+               </epigraph>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed For <hi>VVilliam Hurd,</hi> near <hi>the</hi> Strand.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
